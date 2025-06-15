@@ -1,0 +1,16 @@
+
+#wrapper{
+    background-color: rgba(252, 204, 216, 0.795) ;
+    text-align: center ;
+    margin: 10% ;
+    min-height: 40% ;
+} 
+#inside{
+    margin: 2.5% !important;
+    text-align: center ;
+    background-color: white !important ;
+} 
+
+#seperate{
+    background-color:darkseagreen ;
+}
